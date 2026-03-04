@@ -1,12 +1,11 @@
-Excellent — good timing to pivot the narrative early.
+# ⚡ Real-Time Multi-Utility Lakehouse Platform
 
-Below is a **clean, senior-level rewrite** of your README reflecting the new **Energy / IoT Streaming Platform** direction, while keeping it recruiter-strong and platform-focused.
-
-You can copy-paste this directly.
-
----
-
-# ⚡ Real-Time Energy Lakehouse Platform on Databricks
+Supports:
+- Electricity meters
+- Water meters
+- Main meters and submeters
+- Tenant-level allocation
+- Reconciliation logic
 
 ## Overview
 
